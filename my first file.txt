@@ -1,0 +1,11 @@
+hii this is my first file 
+
+1 git init=for intializaton
+2  git config --global user.name "Ashish R. Marathe"=for changing name
+3 git config --global user.email "maratheashish01@gmail.com"=for changing email
+4 git status=for knowing git hub status
+5 git add. =to add file in statging arar
+
+
+
+
